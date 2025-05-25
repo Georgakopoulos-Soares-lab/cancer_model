@@ -2,6 +2,13 @@
 
 This repository hosts the codebase and analytical workflows for the manuscript “The Impact of Passenger Mutations on Cancer Development.” The project explores the functional effects of passenger mutations across diverse cancer types, quantifies their impact on patient survival, and evaluates their value as prognostic biomarkers.
 
+The analyses performed include:
+
+- Quantification of passenger mutation burden in known cancer genes
+- Prediction of pathogenicity for passenger mutations using computational tools
+- Assessment of functional impact on transcription factor binding and splicing
+- Evaluation of survival outcomes and the prognostic potential of passenger mutations
+
 ## Repository Structure
 
 - **data/**: Used to store raw data used for all analyses. Not shared due to storage or privacy constraints.
@@ -27,6 +34,9 @@ conda env create -f conda_env_cancer_model.yml
 conda activate cancer_model
 
 ```
+
+Configure the following at the root level of the directory:
+
 - Download and setup [Annovar](https://www.openbioinformatics.org/annovar/annovar_download_form.php)
 - Download CADD [file](https://cadd.gs.washington.edu/download)
 - Setup [Pangolin tool](https://github.com/tkzeng/Pangolin)
