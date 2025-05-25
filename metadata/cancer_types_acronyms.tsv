@@ -1,0 +1,49 @@
+Cancer type	Acronym	Projects	Organ
+Adrenocortical carcinoma	ACC	TCGA	Adrenal Gland
+Bladder Urothelial Carcinoma	BLCA	TCGA	Bladder
+Bone Cancer	BOCA	ICGC	Bone_SoftTissue
+Breast invasive carcinoma	BRCA	ICGC,TCGA	Breast
+Biliary Tract Cancer	BTCA	ICGC	Biliary
+Cervical squamous cell carcinoma and endocervical adenocarcinoma	CESC	TCGA	Cervix
+Cholangiocarcinoma	CHOL	TCGA	Biliary
+Chronic Lymphocytic Leukemia	CLLE	ICGC	Lymphoid
+Chronic Myeloid Disorders	CMDI	ICGC	Myeloid
+Colon adenocarcinoma	COAD	TCGA	Colon_Rectum
+Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	DLBC	TCGA	Lymphoid
+Early Onset Prostate Cancer	EOPC	ICGC	Prostate
+Esophageal Adenocarcinoma	ESAD	ICGC	Esophagus
+Esophageal carcinoma	ESCA	TCGA	Esophagus
+Gastric Cancer	GACA	ICGC	Stomach
+Glioblastoma multiforme	GBM	TCGA	CNS
+Head and Neck squamous cell carcinoma	HNSC	TCGA	Head_Neck
+Kidney Chromophobe	KICH	TCGA	Kidney
+Kidney renal clear cell carcinoma	KIRC	TCGA	Kidney
+Kidney renal papillary cell carcinoma	KIRP	TCGA	Kidney
+Acute Myeloid Leukemia	LAML	TCGA	Myeloid
+Brain Lower Grade Glioma	LGG	TCGA	CNS
+Liver Cancer	LICA	ICGC	Liver
+Liver hepatocellular carcinoma	LIHC	TCGA	Liver
+Lung adenocarcinoma	LUAD	TCGA	Lung
+Lung squamous cell carcinoma	LUSC	TCGA	Lung
+Malignant Lymphoma	MALY	ICGC	Lymphoid
+Skin Cancer	MELA	ICGC	Skin
+Mesothelioma	MESO	TCGA	Mesothelium
+Oral Cancer	ORCA	ICGC	Oral
+Ovarian serous cystadenocarcinoma	OV	ICGC,TCGA	Ovary
+Pancreatic adenocarcinoma	PAAD	TCGA	Pancreas
+Pancreatic Cancer	PACA	ICGC	Pancreas
+Pancreatic Cancer Endocrine neoplasms	PAEN	ICGC	Pancreas
+Pediatric Brain Cancer	PBCA	ICGC	Pediatric
+Pheochromocytoma and Paraganglioma	PCPG	TCGA	Adrenal Gland and other
+Prostate adenocarcinoma	PRAD	ICGC,TCGA	Prostate
+Rectum adenocarcinoma	READ	TCGA	Colon_Rectum
+Renal Cancer	RECA	ICGC	Kidney
+Sarcoma	SARC	TCGA	Sarcoma
+Skin Cutaneous Melanoma	SKCM	TCGA	Skin
+Stomach adenocarcinoma	STAD	TCGA	Stomach
+Testicular Germ Cell Tumors	TGCT	TCGA	Testis
+Thyroid carcinoma	THCA	TCGA	Thyroid
+Thymoma	THYM	TCGA	Thymus
+Uterine Corpus Endometrial Carcinoma	UCEC	TCGA	Uterus
+Uterine Carcinosarcoma	UCS	TCGA	Uterus
+Uveal Melanoma	UVM	TCGA	Eye
